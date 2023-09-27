@@ -1,0 +1,12 @@
+button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    color: black;
+}
+.Click {
+    color: hsl(100, 100%, 100%);
+    background-color: hsl(0, 0%, 0%);
+}
+.No {
+    background-color: hsl(60, 90%, 51%);
+}
